@@ -1,0 +1,6 @@
+city,year,waste_type,quantity_mt_per_day,recovery_type,value_rs_per_mt,co2_saved_kg_per_mt
+Mumbai,2024,Organic (wet),4574,Compost / Biogas,1500,300
+Mumbai,2024,Organic (dry),221,RDF / Compost,1000,250
+Mumbai,2024,Paper & Metal,207,Recycling,6000,1200
+Mumbai,2024,Plastic,204,Recycling,10000,1800
+Mumbai,2024,Sand / Fines,1094,Landfill,0,0
